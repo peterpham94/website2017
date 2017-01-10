@@ -38,12 +38,12 @@
     <img src="season3.jpg">
 	</div>
 
-  <div class="wrapper-about">
+  <div id="panel-one">
     <div id="one">
       <img src="yeezus.jpg">
     </div>
+
     <div id="two">
-      <h1> Hello </h1>
       <p> My name is Peter and I am an aspring developer</p>
       <p> I am currently a Senior at Temple University, studying in Information Science and Technology and Computer Science </p>
       <p> I am from Philadelphia </p>
@@ -57,16 +57,16 @@
       <p> Graduation </p>
       <p> The College Dropout </p>
       <p> I like them all to be honest </p>
-      <p> I hope you learned a little more about me <br/></p>
+      <p> I hope you learned a little more about </p>
     </div>
   </div>
 
-  <div class="wrapper-portfolio">
+  <div id="panel-two">
     <div id="three">
-      <p> My name is Peter and I am an aspring developer</p>
-      <p> I am currently a Senior at Temple University, studying in Information Science and Technology and Computer Science </p>
-      <p> I am from Philadelphia </p>
-      <p> My favorite Artist is... </p>
+      <p> three</p>
+      <p> Graduation </p>
+      <p> The College Dropout </p>
+      <p> I like them all to be honest </p>
       <p> You guess it! Kanye </p>
       <p> My Favorite album of his is..</p>
       <p> 808's and HeartBreak </p>
@@ -77,11 +77,13 @@
       <p> The College Dropout </p>
       <p> I hope you learned a little more about me <br/></p>
     </div>
+
     <div id="four">
-      <img src="good_music.jpg">
+      <img src="good_music.jpg"
     </div>
   </div>
 
+<!--
   <div class="wrapper-contact">
     <div id="five">
       <img src="saintpablo.jpg">
@@ -96,5 +98,5 @@
       <img src="mbdtf.jpg">
     </div>
   </div>
-
+-->
 </body>

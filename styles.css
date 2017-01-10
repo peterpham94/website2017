@@ -27,20 +27,40 @@ body
  	height: 100%;
  }
 
+#panel-one
+{
+	display: inline-block;
+	border: 3px solid red;
+}
+
 #one
 {
 	float: left;
 	width: 50%;
+	word-wrap: break-word;
 }
 
 #two
 {
 	float: right;
-	height: 505px;
+	width: 50%;
+	word-wrap: break-word;
+}
+
+#panel-two
+{
+	display: inline-block;
+	border: 3px solid blue;
+}
+
+#three
+{
+	float: left;
 	width: 50%;
 }
 
-#three{
-	float: left;
+#four
+{
+	float: right;
 	width: 50%;
 }
