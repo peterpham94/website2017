@@ -63,7 +63,7 @@
 			"file": "index",
 			"settings":
 			{
-				"buffer_size": 3379,
+				"buffer_size": 3335,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -75,16 +75,6 @@
 				"buffer_size": 399,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Peter/Documents/test-git/testing.html",
-			"settings":
-			{
-				"buffer_size": 75,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "<ul>"
 			}
 		},
 		{
@@ -129,6 +119,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Peter/Documents/test-git/testing.html",
 		"/C/Users/Peter/Documents/bootstrap-3.3.7-dist/js/bootstrap.js",
 		"/C/Users/Peter/Downloads/bootstrap-autohidingnavbar-master/src/jquery.bootstrap-autohidingnavbar.js",
 		"/C/Users/Peter/Downloads/bootstrap-autohidingnavbar-master/dist/jquery.bootstrap-autohidingnavbar.js",
@@ -175,7 +166,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -184,15 +175,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3379,
+						"buffer_size": 3335,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2381,
-								2381
+								2940,
+								2940
 							]
 						],
 						"settings":
@@ -202,10 +193,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1585.0,
+						"translation.y": 1860.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -238,35 +229,6 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/C/Users/Peter/Documents/test-git/testing.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 75,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								75,
-								75
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<ul>",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "responsive.css",
 					"semi_transient": false,
 					"settings":
@@ -290,7 +252,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
