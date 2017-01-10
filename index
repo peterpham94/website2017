@@ -79,7 +79,29 @@
     </div>
 
     <div id="four">
-      <img src="good_music.jpg"
+      <img src="good_music.jpg">
+    </div>
+  </div>
+
+  <div id="panel-three">
+      <div id="five">
+      <p> three</p>
+      <p> Graduation </p>
+      <p> The College Dropout </p>
+      <p> I like them all to be honest </p>
+      <p> You guess it! Kanye </p>
+      <p> My Favorite album of his is..</p>
+      <p> 808's and HeartBreak </p>
+      <p> My Beautiful Dark Twisted Fantasy </p>
+      <p> The Life of Pablo </p>
+      <p> Late Registration </p>
+      <p> Graduation </p>
+      <p> The College Dropout </p>
+      <p> I hope you learned a little more about me <br/></p>
+    </div>
+
+    <div id="six">
+      <img src="mbdtf.jpg">
     </div>
   </div>
 

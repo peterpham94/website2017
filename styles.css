@@ -31,26 +31,29 @@ body
 {
 	display: inline-block;
 	border: 3px solid red;
+	margin-bottom: 0px;
 }
 
 #one
 {
 	float: left;
 	width: 50%;
-	word-wrap: break-word;
+	margin-bottom: 0px;
 }
 
 #two
 {
 	float: right;
 	width: 50%;
-	word-wrap: break-word;
+	margin-bottom: 0px;
 }
 
 #panel-two
 {
 	display: inline-block;
-	border: 3px solid blue;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 0px;
 }
 
 #three
@@ -62,5 +65,21 @@ body
 #four
 {
 	float: right;
+	width: 50%;
+}
+
+#panel-three
+{
+	display: inline-block;
+}
+#five
+{
+	float: right;
+	width: 50%;
+}
+
+#six
+{
+	float: left;
 	width: 50%;
 }
