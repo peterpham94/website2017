@@ -1,0 +1,46 @@
+body
+{
+	padding-top: 50px;
+}
+
+ img
+ {
+ 	max-width: 100%;
+ 	height: auto;
+ }
+
+.navbar-header a
+{
+	font-weight: bold;
+	color: black !important;
+	font-size: 20px;
+}
+
+.nav a{
+	color: black !important;
+	font-weight: bold;
+	font-size: 12.5px;
+}
+
+ #about
+ {
+ 	height: 100%;
+ }
+
+#one
+{
+	float: left;
+	width: 50%;
+}
+
+#two
+{
+	float: right;
+	height: 505px;
+	width: 50%;
+}
+
+#three{
+	float: left;
+	width: 50%;
+}
