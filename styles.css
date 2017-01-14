@@ -1,85 +1,33 @@
-body
-{
-	padding-top: 50px;
-}
-
- img
+ #about img
  {
  	max-width: 100%;
  	height: auto;
  }
 
-.navbar-header a
-{
-	font-weight: bold;
-	color: black !important;
-	font-size: 20px;
-}
-
-.nav a{
-	color: black !important;
-	font-weight: bold;
-	font-size: 12.5px;
-}
-
- #about
- {
- 	height: 100%;
- }
-
-#panel-one
-{
-	display: inline-block;
-	border: 3px solid red;
-	margin-bottom: 0px;
-}
-
 #one
 {
-	float: left;
-	width: 50%;
-	margin-bottom: 0px;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 #two
 {
-	float: right;
-	width: 50%;
-	margin-bottom: 0px;
+	background-color: #d1dad9;
+
 }
 
-#panel-two
+#two img
 {
-	display: inline-block;
-	margin: 0;
-	padding: 0;
-	margin-bottom: 0px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 150px;
+    position: relative;
+    width: 200px;
 }
 
-#three
+#Heart:hover
 {
-	float: left;
-	width: 50%;
+	top: 20px;
 }
 
-#four
-{
-	float: right;
-	width: 50%;
-}
-
-#panel-three
-{
-	display: inline-block;
-}
-#five
-{
-	float: right;
-	width: 50%;
-}
-
-#six
-{
-	float: left;
-	width: 50%;
-}
